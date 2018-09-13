@@ -1,0 +1,6 @@
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio11\obj\Debug\Ejercicio11.csprojResolveAssemblyReference.cache
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio11\obj\Debug\Ejercicio11.pdb

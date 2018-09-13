@@ -1,0 +1,5 @@
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio12\obj\Debug\Ejercicio12.pdb
