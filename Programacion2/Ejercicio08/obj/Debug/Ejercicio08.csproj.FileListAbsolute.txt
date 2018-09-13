@@ -1,0 +1,5 @@
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio08\bin\Debug\Ejercicio08.exe
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio08\bin\Debug\Ejercicio08.pdb
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio08\obj\Debug\Ejercicio08.exe
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio08\obj\Debug\Ejercicio08.pdb

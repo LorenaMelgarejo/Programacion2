@@ -1,0 +1,10 @@
+D:\VisualStudio\Charotti.Michelle.2A\Ejercicio00\bin\Debug\Ejercicio00.exe.config
+D:\VisualStudio\Charotti.Michelle.2A\Ejercicio00\bin\Debug\Ejercicio00.exe
+D:\VisualStudio\Charotti.Michelle.2A\Ejercicio00\bin\Debug\Ejercicio00.pdb
+D:\VisualStudio\Charotti.Michelle.2A\Ejercicio00\obj\Debug\Ejercicio00.csprojAssemblyReference.cache
+D:\VisualStudio\Charotti.Michelle.2A\Ejercicio00\obj\Debug\Ejercicio00.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Charotti.Michelle.2A\Ejercicio00\obj\Debug\Ejercicio00.exe
+D:\VisualStudio\Charotti.Michelle.2A\Ejercicio00\obj\Debug\Ejercicio00.pdb
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio00\bin\Debug\Ejercicio00.exe.config
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio00\obj\Debug\Ejercicio00.exe
+C:\Users\miche\Documents\Visual Studio 2015\Projects\Charotti.Michelle.2A\Ejercicio00\obj\Debug\Ejercicio00.pdb
