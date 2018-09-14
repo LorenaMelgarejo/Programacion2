@@ -1,0 +1,9 @@
+D:\VisualStudio\Charotti.Michelle.2A\Entidad.clase07\bin\Debug\netstandard2.0\Entidad.clase07.deps.json
+D:\VisualStudio\Charotti.Michelle.2A\Entidad.clase07\bin\Debug\netstandard2.0\Entidad.clase07.dll
+D:\VisualStudio\Charotti.Michelle.2A\Entidad.clase07\bin\Debug\netstandard2.0\Entidad.clase07.pdb
+D:\VisualStudio\Charotti.Michelle.2A\Entidad.clase07\obj\Debug\netstandard2.0\Entidad.clase07.csprojAssemblyReference.cache
+D:\VisualStudio\Charotti.Michelle.2A\Entidad.clase07\obj\Debug\netstandard2.0\Entidad.clase07.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Charotti.Michelle.2A\Entidad.clase07\obj\Debug\netstandard2.0\Entidad.clase07.AssemblyInfoInputs.cache
+D:\VisualStudio\Charotti.Michelle.2A\Entidad.clase07\obj\Debug\netstandard2.0\Entidad.clase07.AssemblyInfo.cs
+D:\VisualStudio\Charotti.Michelle.2A\Entidad.clase07\obj\Debug\netstandard2.0\Entidad.clase07.dll
+D:\VisualStudio\Charotti.Michelle.2A\Entidad.clase07\obj\Debug\netstandard2.0\Entidad.clase07.pdb

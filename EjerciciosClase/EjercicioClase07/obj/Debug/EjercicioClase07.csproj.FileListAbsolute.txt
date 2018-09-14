@@ -1,0 +1,7 @@
+D:\VisualStudio\Charotti.Michelle.2A\EjercicioClase07\bin\Debug\EjercicioClase07.exe.config
+D:\VisualStudio\Charotti.Michelle.2A\EjercicioClase07\bin\Debug\EjercicioClase07.exe
+D:\VisualStudio\Charotti.Michelle.2A\EjercicioClase07\bin\Debug\EjercicioClase07.pdb
+D:\VisualStudio\Charotti.Michelle.2A\EjercicioClase07\obj\Debug\EjercicioClase07.csprojAssemblyReference.cache
+D:\VisualStudio\Charotti.Michelle.2A\EjercicioClase07\obj\Debug\EjercicioClase07.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Charotti.Michelle.2A\EjercicioClase07\obj\Debug\EjercicioClase07.exe
+D:\VisualStudio\Charotti.Michelle.2A\EjercicioClase07\obj\Debug\EjercicioClase07.pdb
