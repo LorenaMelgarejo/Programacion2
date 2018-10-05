@@ -1,0 +1,64 @@
+man man ---lleva al manual del manual
+man ls  ---contiene un subdirectorio,devuelve algo retorna un inter
+man pwd ---permite mostrar el directorio donde estas(pwd-print working directory)
+    pwd -l ---permite mostrar el directorio donde estas
+man cd ---permite cambiar de subdirectorio
+cd .. ---los dos puntos baja dos subdirectorios
+ls -lta ---
+ls ---muestra todos los subdirectorios,root
+mkdir nombre --- crea una carpeta con ese nombre
+clear ---borra consola
+tree ---muestra las carpetas
+echo "hola" >> saludar.txt ---crea un archivo y lo escribe
+cat saludar.txt ---crea archivo
+history  ---historial de los comandos
+history >> historial.txt ---muestra y guarda los datos en el archivo
+which ls ---donde esta el comando ls
+rm -r nombre ---borra una carpeta que no esta vacia
+rmdir nombre ---borra una carpeta vacia
+mv ---mover archivo
+cp ---copia
+gedit "miArchivo" ---crea archivo
+vim "miArchivo" --- crea archivo
+nano "miArchivo" ---crea archivo
+touch miArchivo.txt --- crea archivo
+du ---para saber el tamaño de un archivo
+df -h /dev/sdb1 ---
+cd etc --- entrar al root
+ctr+f---sale de pantalla completa
+sudo su---entra al root
+ctrl+d---sale del root
+
+
+cd home  -------------------------------para crear dos carpetas dentro de otra en el directorio alumno
+cd alumno ------------------------------
+mkdir -p claseUno/{ejer1, ejer2} ------- 
+mkdir -p carpeta/{ cat>archivo.txt } ---crea carpeta con archivo
+
+ls -l /dev/
+ls -l /dev/sd*
+sudo fdisk /dev/sdb
+p
+n
+last sector...->+2g -----para que la particion sea de 2gb
+w------------------------guarda
+
+
+sudo mkfs /dev/sdb-------crearlo en el escritorio
+sudo mkfs.ext4 /dev/sdb1 ---para formato
+sudo mkdir /home/carpeta ----crea carpeta
+sudo mount /dev/sdb1 /home/carpeta ----para montarlo en la carpeta
+
+ln saludar.txt otro.txt-----primero hay que crear el archivo saludar y despues montarlo a continuacion (lo primero q escribi)
+ln -s otro.txt nuevo.txt-------crea un acceso directo al archivo(el -s)
+
+sudo tar -cvf backup.tgz--totals alumno-------para comprimir la carpeta alumno desde el home
+
+chmod ejecutor << "echo hoa"
+crl+c---para salir de ahi
+
+man chown---- cambia los permisos
+chown 777
+chown 754
+./ejecutor
+
