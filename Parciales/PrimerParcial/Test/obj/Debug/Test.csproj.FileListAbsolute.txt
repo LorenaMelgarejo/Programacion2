@@ -1,0 +1,8 @@
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\PrimerParcial\Test\bin\Debug\Test.exe.config
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\PrimerParcial\Test\bin\Debug\Test.exe
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\PrimerParcial\Test\bin\Debug\Test.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\PrimerParcial\Test\bin\Debug\Entidades.dll
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\PrimerParcial\Test\bin\Debug\Entidades.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\PrimerParcial\Test\obj\Debug\Test.exe
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\PrimerParcial\Test\obj\Debug\Test.pdb
+C:\Users\M.M\Documents\Visual Studio 2015\Projects\PrimerParcial\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
