@@ -1,0 +1,5 @@
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Entidades\bin\Debug\Entidades.dll
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Entidades\bin\Debug\Entidades.pdb
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Entidades\obj\Debug\Entidades.dll
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Entidades\obj\Debug\Entidades.pdb
