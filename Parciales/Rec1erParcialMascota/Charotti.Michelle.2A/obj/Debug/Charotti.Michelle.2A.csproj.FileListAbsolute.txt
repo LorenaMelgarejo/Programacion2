@@ -1,0 +1,11 @@
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\bin\Debug\Charotti.Michelle.2A.exe.config
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\bin\Debug\Charotti.Michelle.2A.exe
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\bin\Debug\Charotti.Michelle.2A.pdb
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\obj\Debug\Charotti.Michelle.2A.csprojResolveAssemblyReference.cache
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\obj\Debug\Charotti.Michelle._2A.Form1.resources
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\obj\Debug\Charotti.Michelle._2A.Properties.Resources.resources
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\obj\Debug\Charotti.Michelle.2A.csproj.GenerateResource.Cache
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\obj\Debug\Charotti.Michelle.2A.exe
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\obj\Debug\Charotti.Michelle.2A.pdb
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\bin\Debug\Entidades.dll
+c:\users\m.m\documents\visual studio 2015\Projects\Rec1erParcialMascota\Charotti.Michelle.2A\bin\Debug\Entidades.pdb
