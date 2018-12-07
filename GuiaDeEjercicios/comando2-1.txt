@@ -1,0 +1,125 @@
+id --muestra identificador actual de usuarios y grupos
+cat /etc/passwd --registro de los usuarios
+cat /etc/shadow --donde se guardan la password pero sifrado
+cat /etc/group --para ver los grupos
+sudo useradd -s /bin/bash -m -c "usuarioPrueba" pruebaUno --crea usuario
+egrep prueba /etc/passwd --busca la linea donde esta esa palabra
+ls -la |more --muestra los permisos a la izquierda(si tiene "s"es un directorio especial)
+sudo passwd pruebaUno -- cambia contraseña 
+sudo login pruebUno --para ingresar al usuario pruebaUno
+sudo su --super usuario
+su - alumno --logea y manda a una carpeta con permiso
+cd .config/ --para entrar al subdirectorio oculto config
+sudo cat user-dirs.dirs --muestra donde estan las carpetas
+userdel --borra un usuario
+sudo chmod 777 +r carpeta --da permiso recursivo
+
+sudo groupadd grupo --crea grupo
+sudo adduser usuario grupo --que el usuario pertensca a un grupo
+sudo chmod 760 datos --dar permiso a la carpeta datos de rwx rw- ---
+
+mount -t vboxsf share mount-point --
+top --muestra recursos .etc que ps no
+ps -- muestra los procesos de la consola y te dice en que consola estas
+ps aux --muestra todos los procesos
+htop --
+ps -ef --trae un campo mas ppid(el proceso id del padre)
+./zombi --para ejecutar el proceso zombi
+disown --saca la consola
+bg --proceso que esta corriendo en la consola
+fg --trae el proceso arriba
+
+en windowns
+git gui --crea un nuevo repocitorio-clona -abre repocitorio
+mkdir github --crea carpeta
+cd github
+git init --crea un repocitorio,inicia
+cd .git
+git status --para saber si estas parada en el subdirectorio
+git add . --para guardar(el punto guarda todos los archivos)
+git commit -m "primerCommit" --recupera las ultimas modificaciones
+git log
+
+git clone direccionNombre(http:/...) --para clonar
+cd nombreCarpetaDondeLoCree
+git status
+git add .
+git commit -m "commit"
+git config --list --la configuracion del repocitorio
+git config --global user.name "nombre"
+git config --global user.email "email"
+git push origin master
+
+git diff --deworking ,stage area muestra sus diferencias
+git remote
+git remote -v
+git branch nuevaRama --crea rama
+git checkout -b otraRama --crea nueva rama y se para sobre esa
+git push origin nuevaRama
+git diff master nuevaRama --muestra el contenido y el branch
+git checkout master
+git merge nuevaRama 
+git pull --actualiza la ultima vercion de su repocitorio
+
+.gitignore --permite restringir siertos cosas en ese archivo
+echo *.*>> .gitignore --en linux
+lbm --es dinamico
+free -m --para ver la cantidad de memoria
+cat /proc/meminfo --muestra la info de la memoria
+yum --manejo de paquetes
+
+sudo apt -get update --actualiza el paquete
+sudo apt -get check --checkea
+sudo apt -get upgrate --actualiza el sistema
+sudo apt -get install mc -f --instala las dependencias "f10"para salir de la pantalla azul
+sudo apt -get reinstall mc
+sudo apt -get remove mc --elimina el ejecutable pero las configuraciones quedan
+sudo apt -get purge remove mc --elimina todo asta la configuracion mc
+sudo apt -get purgue --elimina todo
+sudo apt -get clean
+sudo apt -get autoclean --detecta que paquete no esta siendo utilizado y lo remueve
+sudo apt -get autoremove --remueve dependencias instaladas
+sudo apt -cache search "nombrePaquete" 
+sudo apt -cache policy mc --para ver la info de cada uno de los paquetes
+sudo apt -cache showpkg mc --trae la info de ahi en la compu
+sudo apt moo
+sudo dpkg -i paquete.deb --installa paquete
+sudo dpkg -l /more --aparece todos los paquetes instalados 
+sudo dpkg -L mc/more
+sudo dpkg -r me --desinstala el paquete
+sudo dpkg --configure
+sudo dpkg -s bim/ls --de quien es
+
+
+  r w x
+7-1 1 1
+6-1 1 0
+5-1 0 1
+4-1 0 0
+3-0 1 1  
+2-0 1 0
+1-0 0 1
+0-0 0 0
+
+
+Para ingresar como alumno creo que puse
+
+su - alumno
+
+Y con el login ingresas
+,Para mostrar el archivo puse
+
+Cat y el nombre del archivo así se muestra por consola lo que tiene
+Cree el grupo examen con groupadd
+
+Groupadd examen
+
+Agregue a profesor y egresado con sudo adduser para cada uno
+
+Después te logeas como profesor con el sudo - profesor
+
+Creas la carpeta en el home
+
+Y para que solo el egresado la pueda leer creo que es 
+Sudo chmod 740 exámenes
+ 
