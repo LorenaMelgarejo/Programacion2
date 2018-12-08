@@ -1,0 +1,13 @@
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csprojAssemblyReference.cache
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.Form1.resources
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.Properties.Resources.resources
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.GenerateResource.cache
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CoreCompileInputs.cache
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe.config
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\bin\Debug\rec.primer.parcial.pdb
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\bin\Debug\ENTIDADES.RPP.dll
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\bin\Debug\ENTIDADES.RPP.pdb
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CopyComplete
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.exe
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\rec.primer.parcial\obj\Debug\rec.primer.parcial.pdb

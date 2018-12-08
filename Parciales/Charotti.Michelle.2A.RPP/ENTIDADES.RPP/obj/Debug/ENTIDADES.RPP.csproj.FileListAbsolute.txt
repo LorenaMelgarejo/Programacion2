@@ -1,0 +1,6 @@
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\ENTIDADES.RPP\obj\Debug\ENTIDADES.RPP.csprojAssemblyReference.cache
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\ENTIDADES.RPP\obj\Debug\ENTIDADES.RPP.csproj.CoreCompileInputs.cache
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\ENTIDADES.RPP\bin\Debug\ENTIDADES.RPP.dll
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\ENTIDADES.RPP\bin\Debug\ENTIDADES.RPP.pdb
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\ENTIDADES.RPP\obj\Debug\ENTIDADES.RPP.dll
+D:\Prueba\rec.primer.parcial\Charotti.Michelle.2A\ENTIDADES.RPP\obj\Debug\ENTIDADES.RPP.pdb
